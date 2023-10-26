@@ -1,4 +1,5 @@
-# AI-1
+# AI-집중교육1 4조
+## CCTV영상을 활용한 보행자 및 차량 방향 탐지
 
 ## 데이터
 출처: [AI Hub 교통문제 해결을 위한 CCTV 교통 영상(시내도로)](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=165)
@@ -39,4 +40,3 @@ yolo 모델 코드
 9. 동영상에 모델 적용
 10. 동영상 프레임들로 저장
 11. 프레임들을 다시 동영상으로 저장
-
